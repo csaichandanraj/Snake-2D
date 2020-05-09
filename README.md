@@ -1,6 +1,6 @@
 # Unity 2D Snake Game
 ![1.png](https://github.com/kevalpatel2106/unity-snack-game/blob/master/screenshot/1.PNG)
-####A simple Snack game made in unity 2D.
+#### A simple Snack game made in unity 2D.
 
 ## Where can I find turorial?
 Tutorial of this game is available on [this](http://noobtuts.com/unity/2d-snake-game) blog. 
